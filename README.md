@@ -1,2 +1,2 @@
 # ODFD-Plus
-ODFD (Online Disk File Downloader) Plus version. Obtain the actual download address of the network disk file.
+ODFD (Online Disk File Downloader) Plus version. Obtain the actual download address of the network disk file. It now supports five online disks: Baidu online disk, Alibaba Cloud disk, Tianyi cloud disk, Xunlei cloud disk, and Quark online disk, which can be downloaded using Aria2, perfectly adapted to Chrome, Edge, FireFox, 360, QQ and other browsers, and can be used in environments where clients cannot be installed. Assistants are free and open source.
